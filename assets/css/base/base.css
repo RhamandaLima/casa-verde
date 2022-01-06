@@ -5,3 +5,8 @@ body {
     background: url(../../img/fundo-textura.png), url(../../img/fundo-linhas.png);
     background-position: center;
 }
+
+.container {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
