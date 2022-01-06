@@ -30,3 +30,11 @@ body {
     margin-top: .75rem;
     margin-bottom: .75rem;
 }
+
+.alinhamento--esquerda {
+    text-align: left;
+}
+
+.alinhamento-meio {
+    text-align: center;
+}
