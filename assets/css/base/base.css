@@ -38,3 +38,7 @@ body {
 .alinhamento-meio {
     text-align: center;
 }
+
+.texto {
+    line-height: 26px;
+}
