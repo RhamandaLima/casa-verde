@@ -29,3 +29,15 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.item__icone--cursor {
+    background-image: url(../../icones/mouse.svg);
+}
+
+.item__icone--carrinho {
+    background-image: url(../../icones/cart.svg);
+}
+
+.item__icone--caminhao {
+    background-image: url(../../icones/truck.svg);
+}
